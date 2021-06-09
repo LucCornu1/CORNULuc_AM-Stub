@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CORNULuc_Stub</string>
+    <string name="show">show</string>
+    <string name="hidden">hide</string>
+</resources>
